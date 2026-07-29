@@ -74,9 +74,9 @@ export default function HomePage() {
       {/* Feature grid */}
       <section id="features" className="mx-auto max-w-6xl px-6 py-20">
         <div className="mx-auto mb-14 max-w-2xl text-center">
-          <h2 className="text-3xl font-bold text-white sm:text-4xl">One panel to cut. One panel to see exactly what you\'ll post.</h2>
+          <h2 className="text-3xl font-bold text-white sm:text-4xl">One panel to cut. One panel to see exactly what you&apos;ll post.</h2>
           <p className="mt-4 text-white/60">
-            Left: your source video with a cut timeline. Right: a live phone-mock preview of the exact 9:16 output. That\'s the whole app.
+            Left: your source video with a cut timeline. Right: a live phone-mock preview of the exact 9:16 output. That&apos;s the whole app.
           </p>
         </div>
         <div className="grid gap-8 md:grid-cols-3">

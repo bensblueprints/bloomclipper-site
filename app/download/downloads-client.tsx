@@ -1,6 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
+import ReactMarkdown from 'react-markdown';
 import { GITHUB_RELEASES_API, GITHUB_REPO } from '@/lib/config';
 
 type Asset = {
@@ -125,18 +126,18 @@ export default function DownloadsClient() {
               <a
                 key={asset.name}
                 href={asset.browser_download_url}
-                className={`flex items-center justify-between rounded-xl border px-5 py-4 transition ${
+                className={`flex min-w-0 items-center justify-between gap-3 rounded-xl border px-5 py-4 transition ${
                   assetKind(asset.name) === os
                     ? 'border-pink/50 bg-bloom-line/10 hover:opacity-90'
                     : 'border-white/10 hover:border-white/25'
                 }`}
               >
-                <div>
-                  <div className="font-medium text-white">{asset.name}</div>
+                <div className="min-w-0">
+                  <div className="break-all font-medium text-white">{asset.name}</div>
                   <div className="text-xs text-white/40">{formatBytes(asset.size)}</div>
                 </div>
                 {assetKind(asset.name) === os && (
-                  <span className="rounded-full bg-pink px-2 py-1 text-[10px] font-semibold uppercase text-white">
+                  <span className="shrink-0 rounded-full bg-pink px-2 py-1 text-[10px] font-semibold uppercase text-white">
                     For your OS
                   </span>
                 )}
@@ -150,7 +151,9 @@ export default function DownloadsClient() {
         {latest.body && (
           <div className="mt-6 border-t border-white/5 pt-6">
             <h3 className="mb-2 text-sm font-semibold text-white/70">Changelog</h3>
-            <pre className="whitespace-pre-wrap text-sm text-white/50">{latest.body}</pre>
+            <div className="prose-bloom text-sm">
+              <ReactMarkdown>{latest.body}</ReactMarkdown>
+            </div>
           </div>
         )}
       </div>
