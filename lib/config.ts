@@ -1,4 +1,4 @@
-export const SITE_URL = 'https://bloomclipper.advancedmarketing.co';
+export const SITE_URL = 'https://bloomclipper.onetimesuite.com';
 export const WHOP_URL = 'https://whop.com/benjisaiempire/bloom-clipper';
 export const GITHUB_REPO = 'bensblueprints/bloomclipper';
 export const GITHUB_RELEASES_API = `https://api.github.com/repos/${GITHUB_REPO}/releases`;
