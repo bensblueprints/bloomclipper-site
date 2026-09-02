@@ -8,8 +8,7 @@ auto-deploys on push. Mark topics done by moving them to the "Published"
 section with the resulting slug.
 
 ## How-tos
-1. How to caption vertical clips for accessibility without a captioning subscription
-2. How to pick the right moment to cut: a framework for finding clip-worthy clips in long recordings
+1. How to pick the right moment to cut: a framework for finding clip-worthy clips in long recordings
 3. How to frame a two-camera interview when only one camera is usable footage
 4. How to batch-export 20+ clips from a single conference keynote recording
 5. A beginner's guide to 9:16 crop composition — what actually keeps viewers watching
@@ -56,3 +55,4 @@ section with the resulting slug.
 
 ## Published
 (move completed topics here with date + slug)
+- 2026-09-02 — How to caption vertical clips for accessibility without a captioning subscription — `caption-vertical-clips-accessibility-without-subscription`
