@@ -8,7 +8,6 @@ auto-deploys on push. Mark topics done by moving them to the "Published"
 section with the resulting slug.
 
 ## How-tos
-5. A beginner's guide to 9:16 crop composition — what actually keeps viewers watching
 6. How to clip a live stream VOD without re-watching the whole thing
 7. How to set up a repeatable weekly clipping workflow for a podcast (templates + checklist)
 8. How to zoom into a crop box without losing video quality on export
@@ -56,3 +55,4 @@ section with the resulting slug.
 - 2026-09-04 — How to pick the right moment to cut: a framework for finding clip-worthy moments in long recordings — `how-to-find-clip-worthy-moments-long-recordings`
 - 2026-11-04 — How to frame a two-camera interview when only one camera is usable footage — `frame-two-camera-interview-one-camera-usable`
 - 2026-11-06 — How to batch-export 20+ clips from a single conference keynote recording — `batch-export-clips-conference-keynote`
+- 2026-11-11 — A beginner's guide to 9:16 crop composition: what actually keeps viewers watching — `beginners-guide-9-16-crop-composition`
