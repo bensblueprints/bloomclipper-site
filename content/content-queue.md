@@ -8,7 +8,6 @@ auto-deploys on push. Mark topics done by moving them to the "Published"
 section with the resulting slug.
 
 ## How-tos
-9. How to organize your clips folder when you're exporting dozens per week
 
 ## Competitor / pricing analyses (verify pricing at publish time)
 10. Opus Clip pricing in 2027: what changed and what it means for the true cost of clipping
@@ -56,3 +55,4 @@ section with the resulting slug.
 - 2026-11-13 — How to clip a live stream VOD without re-watching the whole thing — `clip-livestream-vod-without-rewatching`
 - 2026-11-18 — How to Set Up a Repeatable Weekly Clipping Workflow for a Podcast (Templates + Checklist) — `repeatable-weekly-podcast-clipping-workflow`
 - 2026-11-20 — How to Zoom Into a Crop Box Without Losing Video Quality on Export — `zoom-crop-box-without-losing-quality`
+- 2026-11-25 — How to Organize Your Clips Folder When You're Exporting Dozens a Week — `organize-clips-folder-exporting-dozens-per-week`
