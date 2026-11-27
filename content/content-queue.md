@@ -10,7 +10,6 @@ section with the resulting slug.
 ## How-tos
 
 ## Competitor / pricing analyses (verify pricing at publish time)
-10. Opus Clip pricing in 2027: what changed and what it means for the true cost of clipping
 11. Vizard vs Bloom Clipper: credit math for a creator posting daily
 12. Kapwing per-seat pricing: what a 5-person agency team actually pays per year
 13. Descript's media-minutes overhaul: how it changed the real cost of clipping in Descript
@@ -56,3 +55,4 @@ section with the resulting slug.
 - 2026-11-18 — How to Set Up a Repeatable Weekly Clipping Workflow for a Podcast (Templates + Checklist) — `repeatable-weekly-podcast-clipping-workflow`
 - 2026-11-20 — How to Zoom Into a Crop Box Without Losing Video Quality on Export — `zoom-crop-box-without-losing-quality`
 - 2026-11-25 — How to Organize Your Clips Folder When You're Exporting Dozens a Week — `organize-clips-folder-exporting-dozens-per-week`
+- 2026-11-27 — Opus Clip Pricing in 2026: What It Actually Costs to Clip Video Regularly — `opus-clip-pricing-2026-true-cost`
